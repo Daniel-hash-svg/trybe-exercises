@@ -5,3 +5,6 @@ O que vou aprender na trybe:
 -Git
 -Javascript
 -python
+-HTML
+-CSS
+
