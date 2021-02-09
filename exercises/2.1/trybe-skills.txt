@@ -3,5 +3,9 @@ O que vou aprender na trybe:
 -Unix
 -Bash
 -Git
+
+-Javascript
+=======
 -HTML
 -CSS
+
